@@ -1,0 +1,66 @@
+2019-10-19 04:21:36 alert  SetupcheckPassword[E28]: Checking for password protection
+2019-10-19 04:23:26 alert  SetupCloseProcs[E28]: Checking for running apps
+2019-10-19 04:23:26 alert  SetupRemove[E28]: Started
+2019-10-19 04:23:26 alert  SetupRemove[E28]: Processing GUI process
+2019-10-19 04:23:26 alert  SetupRemove[E28]: Processing installation directory
+2019-10-19 04:23:26 alert  SetupRemove[E28]: Done
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Installation started
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Stage 1
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Decryption error 1
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Decryption error 2
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Decryption error 3
+2019-10-19 04:23:32 alert  InstallFunc[E28]: Decryption error 4
+2019-12-09 09:01:15 alert  UninstallFunc[1E9C]: Uninstall started
+2019-12-09 09:01:15 alert  UninstallFunc[1E9C]: Uninstall processing GUI process
+2019-12-09 09:01:19 alert  UninstallFunc[1E9C]: Uninstall processing installation directory
+2019-12-09 09:01:19 alert  UninstallFunc[1E9C]: Uninstall processing FS
+2019-12-09 09:01:19 alert  UninstallFunc[1E9C]: Uninstall processing service
+2019-12-09 09:01:19 error  UninstallFunc[1E9C]: Uninstall processing service2
+2019-12-09 09:01:20 alert  UninstallFunc[1E9C]: Uninstall processing service process
+2019-12-09 09:01:20 alert  UninstallFunc[1E9C]: Uninstall processing GUI process
+2019-12-09 09:01:20 alert  UninstallFunc[1E9C]: Uninstall processing DLL
+2019-12-09 09:01:20 alert  UninstallFunc[1E9C]: Uninstall done
+2019-12-16 12:22:28 alert  SetupcheckPassword[614]: Checking for password protection
+2019-12-16 12:24:06 alert  SetupCloseProcs[614]: Checking for running apps
+2019-12-16 12:24:06 alert  SetupRemove[614]: Started
+2019-12-16 12:24:06 alert  SetupRemove[614]: Processing GUI process
+2019-12-16 12:24:06 alert  SetupRemove[614]: Processing installation directory
+2019-12-16 12:24:06 alert  SetupRemove[614]: Done
+2019-12-16 12:24:12 alert  InstallFunc[614]: Installation started
+2019-12-16 12:24:12 alert  InstallFunc[614]: Stage 1
+2019-12-16 12:24:12 alert  InstallFunc[614]: Decryption error 1
+2019-12-16 12:24:12 alert  InstallFunc[614]: Decryption error 2
+2019-12-16 12:24:12 alert  InstallFunc[614]: Decryption error 3
+2019-12-16 12:24:12 alert  InstallFunc[614]: Decryption error 4
+2019-12-19 12:44:26 alert  UninstallFunc[DE4]: Uninstall started
+2019-12-19 12:44:26 alert  UninstallFunc[DE4]: Uninstall processing GUI process
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing installation directory
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing FS
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing service
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing service2
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing service process
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing GUI process
+2019-12-19 12:44:30 alert  UninstallFunc[DE4]: Uninstall processing DLL
+2019-12-19 12:44:31 alert  UninstallFunc[DE4]: Uninstall done
+2019-12-19 17:51:18 [error]  SetupcheckPassword[23B8]: Checking for password protection
+2019-12-19 17:51:48 alert  SetupCloseProcs[23B8]: Checking for running apps
+2019-12-19 17:51:48 alert  SetupRemove[23B8]: Started
+2019-12-19 17:51:48 alert  SetupRemove[23B8]: Processing GUI process
+2019-12-19 17:51:48 alert  SetupRemove[23B8]: Processing installation directory
+2019-12-19 17:51:48 alert  SetupRemove[23B8]: Done
+2019-12-19 17:51:56 alert  InstallFunc[23B8]: Installation started
+2019-12-19 17:51:56 alert  InstallFunc[23B8]: Stage 1
+2019-12-19 17:51:57 alert  InstallFunc[23B8]: Decryption error 1
+2019-12-19 17:51:57 alert  InstallFunc[23B8]: Decryption error 2
+2019-12-19 17:51:57 alert  InstallFunc[23B8]: Decryption error 3
+2019-12-19 17:51:57 alert  InstallFunc[23B8]: Decryption error 4
+2019-12-19 18:01:02 alert  UninstallFunc[BAC]: Uninstall started
+2019-12-19 18:01:02 alert  UninstallFunc[BAC]: Uninstall processing GUI process
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing installation directory
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing FS
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing service
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing service2
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing service process
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing GUI process
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall processing DLL
+2019-12-19 18:01:06 alert  UninstallFunc[BAC]: Uninstall done
